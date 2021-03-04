@@ -1,0 +1,2 @@
+# openmrsSavicsGmao
+OpenMRS Savics GMAO
